@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1643257114224,
-  "index": "dist/1/index.html",
+  "timestamp": 1643257536952,
+  "index": "m3_ws_d1/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "dist/1/favicon.ico",
-        "dist/1/index.html",
-        "dist/1/main.5e3267b7cfbd916e.js",
-        "dist/1/manifest.webmanifest",
-        "dist/1/polyfills.f498bedff226b34a.js",
-        "dist/1/runtime.37d02ecc4430ebad.js",
-        "dist/1/styles.ef46db3751d8e999.css"
+        "m3_ws_d1/favicon.ico",
+        "m3_ws_d1/index.html",
+        "m3_ws_d1/main.5e3267b7cfbd916e.js",
+        "m3_ws_d1/manifest.webmanifest",
+        "m3_ws_d1/polyfills.f498bedff226b34a.js",
+        "m3_ws_d1/runtime.37d02ecc4430ebad.js",
+        "m3_ws_d1/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,37 +29,37 @@
         "ignoreVary": true
       },
       "urls": [
-        "dist/1/assets/burn-deck-cards.jpg",
-        "dist/1/assets/icons/icon-128x128.png",
-        "dist/1/assets/icons/icon-144x144.png",
-        "dist/1/assets/icons/icon-152x152.png",
-        "dist/1/assets/icons/icon-192x192.png",
-        "dist/1/assets/icons/icon-384x384.png",
-        "dist/1/assets/icons/icon-512x512.png",
-        "dist/1/assets/icons/icon-72x72.png",
-        "dist/1/assets/icons/icon-96x96.png"
+        "m3_ws_d1/assets/burn-deck-cards.jpg",
+        "m3_ws_d1/assets/icons/icon-128x128.png",
+        "m3_ws_d1/assets/icons/icon-144x144.png",
+        "m3_ws_d1/assets/icons/icon-152x152.png",
+        "m3_ws_d1/assets/icons/icon-192x192.png",
+        "m3_ws_d1/assets/icons/icon-384x384.png",
+        "m3_ws_d1/assets/icons/icon-512x512.png",
+        "m3_ws_d1/assets/icons/icon-72x72.png",
+        "m3_ws_d1/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "dist/1/assets/burn-deck-cards.jpg": "3bf68684f2f67b293696d514d8583bf0d6f5688a",
-    "dist/1/assets/icons/icon-128x128.png": "6b0fc0fbb2fdac3f61ce86e7fb0c66fad45a47bf",
-    "dist/1/assets/icons/icon-144x144.png": "dd7aaa9e72338c0adf50bde3ed0658a899a48ec9",
-    "dist/1/assets/icons/icon-152x152.png": "8b9e59097f840d532e5d3125c2ac2678ab12af88",
-    "dist/1/assets/icons/icon-192x192.png": "27e17416b7406ec67868d0d4dac020c8cfdd5265",
-    "dist/1/assets/icons/icon-384x384.png": "fdcc37eccd80f5ef4b6d12318072ee91dda10545",
-    "dist/1/assets/icons/icon-512x512.png": "651dddf79a1737f5d3d1c549b4fb02dea5910f01",
-    "dist/1/assets/icons/icon-72x72.png": "62cf5e8d996d2600f78344f958b15053ea1656e5",
-    "dist/1/assets/icons/icon-96x96.png": "90ef952cd65512e96f6d71fd359e8871048dc280",
-    "dist/1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "dist/1/index.html": "f570fbc9a6769b9f9fbd2497a7e30e3590e4a0ec",
-    "dist/1/main.5e3267b7cfbd916e.js": "08e8b21c91e078ece40a46355297c07cb30ce6dc",
-    "dist/1/manifest.webmanifest": "a8a8ce38552eae8acafc8af9a1a5e4668d36ade2",
-    "dist/1/polyfills.f498bedff226b34a.js": "6fea83971e8774097d8a3b9bd49eb6822fcd70dd",
-    "dist/1/runtime.37d02ecc4430ebad.js": "c7c132bc1fe44abf7b0ffd6e18dd3f93de7b81e7",
-    "dist/1/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "m3_ws_d1/assets/burn-deck-cards.jpg": "3bf68684f2f67b293696d514d8583bf0d6f5688a",
+    "m3_ws_d1/assets/icons/icon-128x128.png": "6b0fc0fbb2fdac3f61ce86e7fb0c66fad45a47bf",
+    "m3_ws_d1/assets/icons/icon-144x144.png": "dd7aaa9e72338c0adf50bde3ed0658a899a48ec9",
+    "m3_ws_d1/assets/icons/icon-152x152.png": "8b9e59097f840d532e5d3125c2ac2678ab12af88",
+    "m3_ws_d1/assets/icons/icon-192x192.png": "27e17416b7406ec67868d0d4dac020c8cfdd5265",
+    "m3_ws_d1/assets/icons/icon-384x384.png": "fdcc37eccd80f5ef4b6d12318072ee91dda10545",
+    "m3_ws_d1/assets/icons/icon-512x512.png": "651dddf79a1737f5d3d1c549b4fb02dea5910f01",
+    "m3_ws_d1/assets/icons/icon-72x72.png": "62cf5e8d996d2600f78344f958b15053ea1656e5",
+    "m3_ws_d1/assets/icons/icon-96x96.png": "90ef952cd65512e96f6d71fd359e8871048dc280",
+    "m3_ws_d1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "m3_ws_d1/index.html": "dcdcd615ae20df3918337bba64fb5d3ee62ee63f",
+    "m3_ws_d1/main.5e3267b7cfbd916e.js": "08e8b21c91e078ece40a46355297c07cb30ce6dc",
+    "m3_ws_d1/manifest.webmanifest": "a8a8ce38552eae8acafc8af9a1a5e4668d36ade2",
+    "m3_ws_d1/polyfills.f498bedff226b34a.js": "6fea83971e8774097d8a3b9bd49eb6822fcd70dd",
+    "m3_ws_d1/runtime.37d02ecc4430ebad.js": "c7c132bc1fe44abf7b0ffd6e18dd3f93de7b81e7",
+    "m3_ws_d1/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
