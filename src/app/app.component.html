@@ -1,4 +1,4 @@
-<h1>Welcome to an introduction to Burn!</h1>
+<h1>Welcome to Modern deck: <span style="color: firebrick;">Burn</span>!</h1>
 
 <p>
   A variety of decks make up the Modern meta of Magic: The Gathering, with some of the slower
@@ -16,7 +16,7 @@
 
 <h2>The Game Plan</h2>
 
-<img src="assets\burn-deck-cards.jpg" alt="Paris" style="width:50%;">
+<img src="assets\burn-deck-cards.jpg" alt="Cards" style="width:50%;">
 
 <p>
   The name of the game is to use spells which deal three (also known as "bolt to the face") or
@@ -28,3 +28,48 @@
 <h2>Damage Simulator</h2>
 
 <app-life></app-life>
+
+<h2>Random Angular Playground</h2>
+
+<!-- style="background-color:whitesmoke; width:570px; font-size: 150%"> -->
+<table>
+  <tr>
+    <th>Button with disabled and string change function</th>
+    <th>Live Monitoring (One-way Binding)</th>
+    <th>Live Monitoring (Two-way Binding)</th>
+  </tr>
+  <tr>
+    <td>
+      <button [disabled]="!allowNewServer" (click)="createServer()">
+        <b>Start Server</b></button>
+      <button (click)="stopServer()">
+        <b>Stop Server</b></button>
+    </td>
+    <td>
+      <input type="text" size="20"
+      placeholder="Type what you want to see"
+      (input)="liveText($event)">
+    </td>
+    <td>
+      <input type="text" size="20"
+      placeholder="Type what you want to see"
+      [(ngModel)]="msg">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- show status of "Add Server" button -->
+      Start server status: {{allowNewServer}}
+    </td>
+    <td colspan="2">
+      <!-- show live text -->
+      {{msg}}
+    </td>
+  </tr>
+    <td [style.font-weight]="fontSize">
+      <!-- show effect of "Add Server" button -->
+      {{serverStatus}}
+    </td>
+  <tr>
+  </tr>
+</table>

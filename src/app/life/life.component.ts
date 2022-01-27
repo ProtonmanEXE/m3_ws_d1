@@ -7,19 +7,29 @@ import { Component, OnInit } from '@angular/core';
 })
 export class LifeComponent implements OnInit {
 
-  startingLifeTotal: number;
+  startingLifeTotal:number = 20;
   a: number | undefined;
 
   constructor() {
-    this.startingLifeTotal = 20;
   }
 
-  // minusThree(): number {
-  //   this.startingLifeTotal = this.startingLifeTotal - 3;
-  //   return this.startingLifeTotal
-  // }
-
   ngOnInit(): void {
+  }
+
+  minusThree() {
+    this.startingLifeTotal -= 3;
+  }
+
+  minusFour() {
+    this.startingLifeTotal -= 4;
+  }
+
+  minusTwo() {
+    this.startingLifeTotal -= 2;
+  }
+
+  reset() {
+    this.startingLifeTotal = 20;
   }
 
 }

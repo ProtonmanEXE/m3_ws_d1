@@ -1,6 +1,12 @@
 <p class="life">{{startingLifeTotal}}</p>
 
-<!-- <p class="buttons">
-  <button onclick="minusThree()">
-    <b>Bolt to the face</b></button>
-</p> -->
+<div class="buttons">
+    <button (click)="minusThree()">
+      <b>Bolt to the face!</b></button>
+    <button (click)="minusFour()">
+      <b>Boros Charm!</b></button>
+    <button (click)="minusTwo()">
+      <b>Goblin Guide attack!</b></button>
+    <button (click)="reset()">
+      <b>Reset</b></button>
+</div>
